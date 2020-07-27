@@ -1,11 +1,19 @@
+<!-- INCLUDE -->
 <?php
   define('U', '');
-  define('MENU', 1);
   include_once(U . 'includes/header.php');
 ?>
+<!-- INCLUDE -->
 
+<!-- Título -->
+<title>Título</title>
 
+</head>
 
-<!-- Include Footer -->
-<?php include_once(U . 'includes/footer.php'); ?>
-<!-- Include Footer -->
+<body>
+
+  <main>
+
+  </main>
+
+  <?php include_once(U . 'includes/footer.php'); ?>
