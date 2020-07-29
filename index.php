@@ -12,8 +12,4 @@
 
 <body>
 
-  <main>
-
-  </main>
-
   <?php include_once(U . 'includes/footer.php'); ?>
