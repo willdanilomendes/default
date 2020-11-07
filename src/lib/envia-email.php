@@ -14,7 +14,7 @@ $retorno_err = $_POST['retorno_err'];
 
 //Destinatário do Email, caso seja mais de 1, separe os emails por virgula.
 if(!isset($_POST['destino'])) {
-$destino = "contato@forgedesign.com.br,willian.costa@forgedesign.com.br,michael.oliveira@forgedesign.com.br";
+$destino = "";
 } else {
 $destino = $_POST['destino'];
 }
@@ -37,13 +37,13 @@ $retorno = $_POST['retorno'];
 $servidor_from = $confs['titulo'];
 
 //Servidor SMTP
-$servidor_smtp = "mail.forgedesign.com.br";
+$servidor_smtp = "";
 
 //Usuário do email
-$servidor_usuario = "enviar@forgedesign.com.br";
+$servidor_usuario = "";
 
 //Senha do email
-$servidor_senha = "x}ujPs[8XRjH";
+$servidor_senha = "";
 
 //Porta do Servidor. Geralmente 587.
 $servidor_porta = 587;
