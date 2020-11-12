@@ -7,7 +7,7 @@
   <meta name="description" content="" />
   <META HTTP-EQUIV="EXPIRES" CONTENT="0">
   <META NAME="KEYWORDS" CONTENT="">
-  <META NAME="AUTHOR" CONTENT="">
+  <META NAME="AUTHOR" CONTENT="Willian Danilo Mendes Costa">
   <META NAME="document-classification" content="">
   <META NAME="Language" CONTENT="br, portugues Brasil">
   <META NAME="SUBJECT" content="">

@@ -6,21 +6,18 @@
 
 /* ABSTRACTS */
 @import 'abstracts/variables';
-@import 'abstracts/mixins';
+@import 'abstracts/mediaQuery';
 
 /* BASE */
-@import 'base/reset';
-@import 'base/typography';
+@import 'base/basic';
 
 /* COMPONENTS */
 @import 'components/buttons';
-@import 'components/slider';
 
 /* LAYOUT */
 @import 'layout/footer';
-@import 'layout/header';
-@import 'layout/navigation';
 @import 'layout/forms';
+@import 'layout/navbar';
 
 /* PAGES */
 
