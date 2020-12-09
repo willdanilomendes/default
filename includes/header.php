@@ -29,3 +29,10 @@
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="<?php echo U?>src/css/main.min.css">
+
+  <!-- Título -->
+  <title><?php echo $titulo ?></title>
+
+</head>
+
+<body>

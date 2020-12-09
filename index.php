@@ -1,19 +1,20 @@
 <!-- INCLUDE -->
+
 <?php
 define('U', '');
+// TITULO DA PAGINA
+$titulo = "Teste";
 include_once(U . 'includes/header.php');
+
 ?>
+
 <!-- INCLUDE -->
 
-<!-- Título -->
-<title>Título</title>
-
-</head>
-
-<body>
-	
 
 
-	<!-- FOOTER -->
-	<?php include_once(U . 'includes/footer.php'); ?>
-	<!-- FOOTER -->
+
+
+
+<!-- FOOTER -->
+<?php include_once(U . 'includes/footer.php'); ?>
+<!-- FOOTER -->
