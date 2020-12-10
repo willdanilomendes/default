@@ -25,11 +25,6 @@ a:hover {
   outline: 0;
 }
 
-section {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-
 *,
 *:before,
 *:after {
@@ -40,22 +35,23 @@ section {
   max-width: 1280px;
 }
 
-h1{
-font-size: 3.157rem;
+h1 {
+  font-size: 3.157rem;
 }
 
-h2{
-font-size: 2.369rem;
+h2 {
+  font-size: 2.369rem;
 }
 
-h3{
-font-size: 1.777rem;
+h3 {
+  font-size: 1.777rem;
 }
 
-h4{
-font-size: 1.333rem;
+h4 {
+  font-size: 1.333rem;
 }
 
-p, span{
+p,
+span {
   font-size: 1rem;
 }
